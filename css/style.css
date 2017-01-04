@@ -1,8 +1,11 @@
 #review {
   font-family: Helvetica, Arial, sans-serif; }
 
-h1 {
+h1#title {
   font-family: "Adobe Garamond Pro", "Times New Roman", serif;
   font-size: 3rem; }
-  h1 #red {
+  h1#title #red {
     color: red; }
+
+#gunfight {
+  padding-bottom: 10px; }
